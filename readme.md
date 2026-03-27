@@ -4,7 +4,7 @@
   <p><b>Network & Cybersecurity Command Center.<br>Gelişmiş Ağ ve Siber Güvenlik Komuta Merkezi.</b></p>
   
   <p>
-    <img src="https://img.shields.io/badge/Release-v2.0%20Elite-blue?style=flat-square" alt="NetSwift Version">
+    <img src="https://img.shields.io/badge/Release-v2.0%20-blue?style=flat-square" alt="NetSwift Version">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="NetSwift License">
     <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-orange?style=flat-square" alt="Supported Platforms">
   </p>
