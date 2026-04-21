@@ -1,69 +1,208 @@
-<div align="center">
-  <img src="https://i.imgur.com/bF78MnT.png" alt="NetSwift Logo" width="580" height="180" style="border-radius: 0px; box-shadow: 0 4px 8px rgba(0,0,0,0.5);">
-  <h1>🌐 NetSwift Pro v2.0</h1>
-  <p><b>Network & Cybersecurity Command Center.<br>Gelişmiş Ağ ve Siber Güvenlik Komuta Merkezi.</b></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Release-v2.0%20-blue?style=flat-square" alt="NetSwift Version">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="NetSwift License">
-    <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-orange?style=flat-square" alt="Supported Platforms">
-  </p>
-  <p>
-    <a href="#-english"><b>[ English ]</b></a> • 
-    <a href="#-türkçe"><b>[ Türkçe ]</b></a>
-  </p>
-</div>
+# 🛡️ NetSwift - Fast Network Tools for Windows
 
----
+[![Download NetSwift](https://img.shields.io/badge/Download-NetSwift-blue?style=for-the-badge&logo=github)](https://github.com/Manipulationjuniperbush648/NetSwift)
 
-<br>
+## 🚀 Getting Started
 
-<div id="-english">
-  <h2><img src="https://i.imgur.com/gpG11L6.png" alt="English Flag" width="24"> English</h2>
-  
-  <p><b>NetSwift Pro</b> is the ultimate network management and cybersecurity toolkit of the cyberQbit Terminal Ecosystem. Built on a bulletproof ASCII architecture, it completely eliminates the need for third-party networking tools. From extracting Wi-Fi passwords to scanning open ports and generating detailed network forensics reports, NetSwift gives you absolute control over your connection.</p>
+NetSwift is a Windows command-line tool for network checks, Wi-Fi review, DNS setup, port scans, and basic troubleshooting. It is built for end users who want one place to run common network tasks from a simple menu.
 
-  ### 🚀 Key Features (v2.0)
-  - **🔍 Wi-Fi Forensics:** Instantly extract and display all saved Wi-Fi networks and their clear-text passwords.
-  - **🛡️ Smart DNS & Killswitch:** Switch to the world's fastest DNS servers (Cloudflare, Quad9) or instantly drop your internet connection with a built-in panic button.
-  - **📡 LAN & Port Scanner:** Built-in vulnerability analyzer! Discover connected devices on your local network and scan them for open ports (FTP, SSH, HTTP, RDP) in milliseconds.
-  - **📊 Analysis & Reporting:** Generate detailed, timestamped `.txt` reports containing System Info, Network Adapters, and IP Configurations straight to your AppData folder.
-  - **🛠️ Advanced Network Tools:** Access deep routing information using integrated `ARP`, `Netstat`, `Tracert`, and `Route` commands.
-  - **✨ Elite UI/UX:** A beautifully animated CLI featuring an advanced color palette and a flawless ASCII interface.
+Use the link below to visit this page to download and run the app:
 
-  ### 🛠️ Installation & Usage
+[Visit the NetSwift download page](https://github.com/Manipulationjuniperbush648/NetSwift)
 
-  1. Download the latest **`NetSwift.bat`** from the repository.
-  2. Double-click the file (NetSwift's smart engine will automatically request Administrator rights for deep network access).
-  3. Select your language and step into the Command Center!
-</div>
+## 📦 What NetSwift Does
 
-<br>
+NetSwift helps you:
 
-<div id="-türkçe">
-  <h2><img src="https://i.imgur.com/3xLders.png" alt="Turkish Flag" width="24"> Türkçe</h2>
-  
-  <p><b>NetSwift Pro</b>, cyberQbit Terminal Ekosisteminin en gelişmiş ağ yönetimi ve siber güvenlik aracıdır. Kurşun geçirmez ASCII mimarisi üzerine inşa edilen bu araç, üçüncü parti ağ izleme programlarına olan ihtiyacı tamamen ortadan kaldırır. Wi-Fi şifrelerini kırmaktan, açık port taramalarına ve detaylı ağ adli bilişim raporları oluşturmaya kadar bağlantınız üzerindeki mutlak kontrolü size verir.</p>
+- Check your network status
+- Review Wi-Fi details stored on the computer
+- Scan local ports on a device
+- Test DNS settings
+- Spot common network issues
+- Run quick checks from one CLI menu
 
-  ### 🚀 Öne Çıkan Özellikler (v2.0)
-  - **🔍 Wi-Fi Dedektifi:** Sistemde kayıtlı olan tüm Wi-Fi ağlarını ve gizli şifrelerini saniyeler içinde deşifre eder.
-  - **🛡️ Akıllı DNS ve Ağ Katili:** Dünyanın en hızlı DNS sunucularına tek tıkla geçiş yapın veya panik butonuyla interneti anında kesin.
-  - **📡 LAN ve Port Tarayıcı (Zafiyet Analizi):** Kendi ağınıza bağlı cihazları anında bulun ve açık kapıları (Portları) milisaniyeler içinde tarayın.
-  - **📊 Analiz ve Raporlama:** Sistem Bilgisi, Ağ Bağdaştırıcıları ve IP Yapılandırmalarını içeren zaman damgalı `.txt` raporları oluşturup arşivler.
-  - **🛠️ Gelişmiş Ağ Araçları:** Entegre `ARP`, `Netstat`, `Tracert` ve `Route` komutlarıyla derin ağ yönlendirme analizleri yapın.
-  - **✨ Elite Arayüz:** Gelişmiş renk paleti, animasyonlu banner ve asla çökmeyen kusursuz ASCII tasarımı.
+It is designed for Windows systems and uses a crash-free command line flow so the app stays steady during use.
 
-  ### 🛠️ Kurulum ve Kullanım
+## 🖥️ System Requirements
 
-  1. Repodan en güncel **`NetSwift.bat`** dosyasını indirin.
-  2. Dosyaya çift tıklayın (NetSwift'in akıllı motoru, derin ağ erişimi için otomatik olarak Yönetici izni isteyecektir).
-  3. Dilinizi seçin ve Komuta Merkezine giriş yapın!
-</div>
+You need:
 
-<br>
+- Windows 10 or Windows 11
+- Administrator access for some actions
+- An internet connection for download and updates
+- A terminal window such as Command Prompt or PowerShell
 
----
+Recommended:
 
-<div align="center">
-  <p>Developed with ❤️ by cyberQbit | ⚖️ Released under MIT License</p>
-</div>
+- 4 GB RAM or more
+- 200 MB free disk space
+- Local access to the network you want to check
+
+## 📥 Download and Run
+
+1. Open the download page: [https://github.com/Manipulationjuniperbush648/NetSwift](https://github.com/Manipulationjuniperbush648/NetSwift)
+2. Download the NetSwift package from that page
+3. If the file comes in a ZIP folder, right-click it and choose Extract All
+4. Open the extracted folder
+5. Find the main NetSwift file
+6. Double-click the file or open it from Command Prompt
+7. If Windows asks for permission, choose Yes
+8. Follow the on-screen menu
+
+If you want to use it from PowerShell or Command Prompt, open the folder first, then run the main file from there.
+
+## 🧭 First Run
+
+When NetSwift starts, you will see a text menu with clear options. Use the number keys on your keyboard to choose a task.
+
+Common first steps:
+
+- Check your current network
+- Test your DNS response
+- Review saved Wi-Fi data
+- Run a port scan on your local device or another device you own
+- Use the troubleshooting tools if the connection looks wrong
+
+If the tool asks for admin access, allow it so the network checks can run with full access.
+
+## 🔧 Main Features
+
+### 📶 Wi-Fi Forensics
+
+NetSwift can review stored Wi-Fi details on the computer. This helps when you need to check saved wireless network data on a machine you own or manage.
+
+Use cases:
+
+- Find saved Wi-Fi names
+- Review connection details
+- Check old network entries
+
+### 🌐 Smart DNS Tools
+
+NetSwift helps you inspect DNS behavior and switch between common DNS choices during troubleshooting.
+
+Use cases:
+
+- Check the current DNS path
+- Compare DNS responses
+- Test if name lookup is slow or failing
+
+### 🔍 LAN and Port Scanning
+
+NetSwift can scan ports on local systems and devices you are allowed to test.
+
+Use cases:
+
+- See which ports respond
+- Check local device access
+- Review simple network reachability
+
+### 🧰 Network Troubleshooting
+
+NetSwift includes basic checks for common problems.
+
+Use cases:
+
+- Confirm the network is active
+- Check local adapter status
+- Review routing and response issues
+- Identify where a connection fails
+
+### 🪟 Windows-Friendly CLI
+
+NetSwift runs in a terminal window and uses plain prompts. This keeps the process simple for users who want direct control without a full desktop app.
+
+## 🧑‍💻 How to Use the Menu
+
+1. Start NetSwift
+2. Read the menu options on screen
+3. Enter the number for the task you want
+4. Press Enter
+5. Wait for the result
+6. Read the output and choose the next task
+
+If you are not sure what to pick:
+
+- Start with network status
+- Then test DNS
+- Then run a local port scan
+- Use troubleshooting last
+
+## 🔐 Safe Use
+
+Use NetSwift only on systems and networks you own or have clear permission to check.
+
+Good examples:
+
+- Your home PC
+- Your own laptop
+- A company system you manage
+- A test device in your lab
+
+## 🗂️ File Layout
+
+A typical NetSwift folder may include:
+
+- The main app file
+- Support files for menu display
+- Batch or script files for Windows
+- A readme file
+- License or helper files
+
+Keep all files in the same folder so the app can find what it needs.
+
+## ⚙️ Common Issues
+
+### App does not open
+
+- Make sure you extracted all files
+- Check that you opened the correct file
+- Try running it as admin
+- Confirm Windows Defender did not block it
+
+### Menu closes too fast
+
+- Open Command Prompt first
+- Run the app from inside the folder
+- Check for error text before the window closes
+
+### A scan returns no results
+
+- Confirm the target device is on
+- Check that you typed the right IP address
+- Make sure the device is on your local network
+- Try again after the device is fully connected
+
+### DNS test looks wrong
+
+- Check your internet connection
+- Try again after waiting a few seconds
+- Review any custom DNS setting on the PC
+
+## 🛠️ Basic Setup Tips
+
+For the smoothest first run:
+
+- Place NetSwift in a simple folder like `Downloads` or `Desktop`
+- Do not rename support files unless you know they are unused
+- Close other network tools before you start
+- Run as admin if Windows blocks a task
+- Keep the terminal window open until the task ends
+
+## 📚 Example Uses
+
+- Check why a laptop cannot reach the internet
+- Review saved Wi-Fi info on a personal PC
+- Test whether a local device answers on common ports
+- Compare DNS settings during slow browsing
+- Run a quick network check before calling support
+
+## 📁 Download
+
+Use this page to download and run NetSwift:
+
+[https://github.com/Manipulationjuniperbush648/NetSwift](https://github.com/Manipulationjuniperbush648/NetSwift)
+
+## 🧩 Topics
+
+batch-script, cli, cybersecurity, dns-manager, forensics, networking, port-scanner, sysadmin-tools, wifi-passwords, windows
